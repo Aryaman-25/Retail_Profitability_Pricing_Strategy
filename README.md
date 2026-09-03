@@ -68,7 +68,7 @@ Full detail, evidence, and caveats: **[docs/02_findings_and_recommendations.docx
 
 ```
 retail-profitability-pricing-strategy/
-├── README.docx                                   ← you are here
+├── README.md                                   ← you are here
 ├── LICENSE
 ├── docs/
 │   ├── 01_methodology.docx                       ← data sources, tools, approach, assumptions, limitations
@@ -85,7 +85,7 @@ retail-profitability-pricing-strategy/
     └── Report.pbix                           ← interactive Power BI report built on the same corrected model
 ```
 
-**Suggested reading order:** `README.docx` → `docs/02_findings_and_recommendations.docx` → `sql/` (to verify the numbers yourself) → `excel/Analysis.xlsx` or `powerbi/Report.pbix` (to explore interactively).
+**Suggested reading order:** `README.md` → `docs/02_findings_and_recommendations.docx` → `sql/` (to verify the numbers yourself) → `excel/Analysis.xlsx` or `powerbi/Report.pbix` (to explore interactively).
 
 ---
 
